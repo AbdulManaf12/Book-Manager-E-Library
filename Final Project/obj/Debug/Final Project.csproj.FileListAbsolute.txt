@@ -1,0 +1,123 @@
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\CuttingEdge.Conditions.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\DevDefined.OAuth.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Auth.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Books.v1.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Core.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.PlatformServices.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Core.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Data.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.DataService.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Diagnostics.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.EntitlementService.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Exception.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.GlobalTaxService.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.LinqExtender.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.OAuth2PlatformClient.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.QueryFilter.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.ReportService.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Retry.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Security.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Utility.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.WebHooksService.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\IppDotNetSdkForQuickBooksApiV3.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Netco.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Newtonsoft.Json.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\QuickBooksOnlineAccess.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\CuttingEdge.Conditions.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\DevDefined.OAuth.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\DevDefined.OAuth.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Auth.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Auth.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Books.v1.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Books.v1.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Core.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Google.Apis.Core.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Core.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Core.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Data.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Data.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.DataService.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.DataService.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Diagnostics.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Diagnostics.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.EntitlementService.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.EntitlementService.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Exception.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Exception.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.GlobalTaxService.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.GlobalTaxService.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.LinqExtender.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.LinqExtender.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.OAuth2PlatformClient.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.OAuth2PlatformClient.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.QueryFilter.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.QueryFilter.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.ReportService.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.ReportService.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Retry.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Retry.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Security.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Security.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Utility.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.Utility.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.WebHooksService.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Intuit.Ipp.WebHooksService.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\IppDotNetSdkForQuickBooksApiV3.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\IppDotNetSdkForQuickBooksApiV3.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Netco.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Netco.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Newtonsoft.Json.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Newtonsoft.Json.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\QuickBooksOnlineAccess.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Main_.resources
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Form3.resources
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Reading.resources
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\HtmlAgilityPack.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\HtmlAgilityPack.pdb
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\HtmlAgilityPack.xml
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final_Project.StickerForm.resources
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\Interop.AcroPDFLib.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Interop.AcroPDFLib.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.ResolveComReference.cache
+G:\#6 5th Semester\Visual Programming\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\HtmlAgilityPack.dll
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\HtmlAgilityPack.pdb
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\HtmlAgilityPack.xml
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\Interop.AcroPDFLib.dll
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Interop.AcroPDFLib.dll
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.ResolveComReference.cache
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Main_.resources
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Reading.resources
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final_Project.StickerForm.resources
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+G:\#5 5th Semester\Visual Programming  (Uni-Elective-II)\Final Project\Final Project\Final Project\obj\Debug\Final_Project.HomePageForm.resources
